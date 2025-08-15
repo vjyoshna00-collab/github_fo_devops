@@ -11,3 +11,7 @@ git remote set-url origin https://token@github.com/vjyoshna00-collab/github_fo_d
 git push origin master
 
 
+<<<<<<< HEAD
+=======
+hi this is abc
+>>>>>>> f5a0f7b3d303f5948a45f4d5a9d694327d4b74cb
