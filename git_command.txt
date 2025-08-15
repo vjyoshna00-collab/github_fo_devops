@@ -10,5 +10,3 @@ git remote -v
 git remote set-url origin https://token@github.com/vjyoshna00-collab/github_fo_devops
 git push origin master
 
-
-hi this is abc
